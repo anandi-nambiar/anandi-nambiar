@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on REDMANE at WEHI as a full-stack developer intern<br> - 🌱 I’m currently learning Data Analytics 
+🔭 I’m currently working on REDMANE at WEHI as a full-stack developer intern<br> 🌱 I’m currently learning Data Analytics 
 
 
 ## 🌐 Socials:
